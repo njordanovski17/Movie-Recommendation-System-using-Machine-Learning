@@ -24,6 +24,7 @@ Streamlit is an open-source app framework in Python for creating beautiful, inte
 
 •	Interface Design: Creating a user-friendly web interface to interact with the recommendation system.
 •	Interactivity: Allowing users to input their preferences and get real-time recommendations.
+
 Pickle
 
 Pickle is a Python module used to serialize and deserialize Python object structures.
