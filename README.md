@@ -38,6 +38,7 @@ Pickle
 Pickle is a Python module used to serialize and deserialize Python object structures.
 
 •	Model Serialization: Saving the trained machine learning model to disk.
+
 •	Model Deserialization: Loading the model from disk for making predictions.
 
 Dataset used:
