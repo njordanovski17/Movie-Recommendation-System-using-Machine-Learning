@@ -7,22 +7,30 @@ Resources and Libraries
 Pandas
 
 Pandas is a powerful data manipulation library in Python. It provides data structures and functions needed to manipulate structured data seamlessly.
+
 •	Data Loading: Reading datasets containing movie information and user ratings.
+
 •	Data Cleaning: Handling missing values, duplicates, and ensuring data consistency.
+
 •	Data Transformation: Manipulating and preparing data for the machine learning model.
 Sklearn
 
 Sklearn, or Scikit-Learn, is a machine learning library for Python. It features various classification, regression, and clustering algorithms.
 
+
 •	Model Selection: Choosing the right machine learning algorithm for recommendations.
+
 •	Data Splitting: Dividing the data into training and testing sets.
+
 •	Model Training: Training the model on the dataset.
+
 •	Model Evaluation: Assessing the performance of the model using appropriate metrics.
 Streamlit
 
 Streamlit is an open-source app framework in Python for creating beautiful, interactive web applications.
 
 •	Interface Design: Creating a user-friendly web interface to interact with the recommendation system.
+
 •	Interactivity: Allowing users to input their preferences and get real-time recommendations.
 
 Pickle
